@@ -1,0 +1,32 @@
+[
+  {
+    "remote":     "github",
+    "repository": "LineageOS/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "branch":     "cm-14.1"
+  },
+  {
+    "remote":     "github",
+    "repository": "Alberto97/proprietary_vendor_motorola",
+    "target_path": "vendor/motorola",
+    "branch":     "cm-14.1"    
+  },
+  {
+    "remote":     "github",
+    "repository": "Alberto97/android_kernel_motorola_msm8953",
+    "target_path": "kernel/motorola/msm8953",
+    "branch":     "cm-14.1"
+  },
+  {
+    "remote":     "github",
+    "repository": "LineageOS/android_external_bson",
+    "target_path": "external/bson",
+    "branch":     "cm-14.1"     
+  },
+  {
+    "remote":     "github",
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch":     "cm-14.1"     
+  }
+]
