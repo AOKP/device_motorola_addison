@@ -7,7 +7,7 @@
   },
   {
     "remote":     "github",
-    "repository": "Alberto97/android_kernel_motorola_msm8953",
+    "repository": "LineageOS/android_kernel_motorola_msm8953",
     "target_path": "kernel/motorola/msm8953",
     "branch":     "cm-14.1"
   },
